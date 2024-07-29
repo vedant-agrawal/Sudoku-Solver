@@ -1,6 +1,9 @@
 # This file contains the utility functions used in main.py
 # THis is a comment
 # Importing Dependencies
+
+# Added another comment
+
 import cv2 as cv
 import numpy as np
 from skimage.segmentation import clear_border
