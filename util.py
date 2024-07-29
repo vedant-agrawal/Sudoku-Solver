@@ -1,5 +1,5 @@
 # This file contains the utility functions used in main.py
-
+# THis is a comment
 # Importing Dependencies
 import cv2 as cv
 import numpy as np
